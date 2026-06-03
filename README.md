@@ -22,8 +22,8 @@ I continuously build projects and expand my expertise in **Microsoft Azure, Powe
   <a href="https://instagram.com/luizhfs15">
     <img src="https://img.shields.io/badge/Instagram-luizhfs15-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.tiktok.com/@Oxstyscream">
-    <img src="https://img.shields.io/badge/TikTok-@Oxstyscream-000000?style=for-the-badge&logo=tiktok" />
+  <a href="https://www.tiktok.com/@oxstyscream">
+    <img src="https://img.shields.io/badge/TikTok-@oxstyscream-000000?style=for-the-badge&logo=tiktok" />
   </a>
   
 </p>
@@ -103,11 +103,3 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=l
 
 
 ## 🚀 Philosophy
-
-> *"My goal is to combine cloud computing, infrastructure, and automation to build secure, efficient, and scalable solutions that simplify operations and deliver real business value."*
-
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
