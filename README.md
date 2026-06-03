@@ -85,14 +85,22 @@ I continuously build projects and expand my expertise in **Microsoft Azure, Powe
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luizhfs15-stack&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhfs15-stack&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=luizhfs15-stack&show_icons=true&theme=tokyonight&count_private=true&hide_border=false"
+/>
+
+<img 
+src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luizhfs15-stack&layout=compact&theme=tokyonight&hide_border=false"
+/>
+
+</div>
+
+
 
 ---
 
-## 🚀 Philosophy
 
 ## 🚀 Philosophy
 
