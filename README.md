@@ -107,6 +107,11 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=l
 
 
 ---
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizhfs15-stack/luizhfs15-stack/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizhfs15-stack/luizhfs15-stack/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luizhfs15-stack/luizhfs15-stack/output/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🚀 Philosophy
 
@@ -135,5 +140,6 @@ Every system, workflow, and automation is an opportunity to make technology **si
 ⭐ Building reliable systems  
 ⚡ Automating smarter processes  
 ☁️ Growing through Cloud & Infrastructure
+
 
 </div>
